@@ -1,0 +1,92 @@
+[
+    {
+        "title": "The scientific 7-minutes workout",
+        "exercises":[
+            {
+                "title": "Jumping jacks",
+                "prelude": 10,
+                "duration": 30
+            },
+            {
+                "title": "Wall sit",
+                "prelude":10,
+                "duration": 30
+            },
+            {
+                "title": "Push up",
+                "prelude": 10,
+                "duration": 30
+            },
+            {
+                "title": "Abdominal crunch",
+                "prelude":10,
+                "duration": 30
+            },
+            {
+                "title": "Step-up on to chair",
+                "prelude": 10,
+                "duration": 30
+            },
+            {
+                "title": "Squat",
+                "prelude":10,
+                "duration": 30
+            },
+            {
+                "title": "Triceps dip on chair",
+                "prelude": 10,
+                "duration": 30
+            },
+            {
+                "title": "Plank",
+                "prelude":10,
+                "duration": 30
+            },
+            {
+                "title": "High kness running in place",
+                "prelude":10,
+                "duration":30
+            },
+            {
+                "title": "Lunge",
+                "prelude":10,
+                "duration":30
+            },
+            {
+                "title": "Push-up and rotation",
+                "prelude":10,
+                "duration":30
+            },
+            {
+                "title": "Side plunk",
+                "prelude":10,
+                "duration":30
+            }
+        ]
+    },
+    {
+        "title": "Core, Upper-Body, and Glutes",
+        "exercises":[
+            {
+                "title":"Forearm Plunk",
+                "prelude": 5,
+                "duration": 180
+            },
+            {
+                "title":"Side plunk (left)",
+                "prelude": 5,
+                "duration": 180
+            },
+            {
+                "title":"Side plunk (right)",
+                "prelude": 5,
+                "duration": 180
+            },
+            {
+                "title":"Forearm Plunk",
+                "prelude": 5,
+                "duration": 180
+            }
+        ]
+    }
+]
